@@ -1,4 +1,4 @@
 <?php
 echo 'Temps i diferencia de graus';
-echo 'picaporte';
+echo 'ahora es una puerta, no solo un picaporte';
 ?>
